@@ -22,12 +22,12 @@ says which port the app is listening to.
 */
 
 const express = require('express');
-const data = require('data.json');
+//const data = require('data.json');
 const path = require('path');
 
 const app = express();
 
-app.use(path());
+//app.use(path());
 app.set('view engine', 'pug');
 app.use(express.static('public'));
 
