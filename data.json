@@ -3,8 +3,8 @@
     {
       "id": 0,
       "project_name": "Random Quote Generator",
-      "description": "program that displays a randomly selected quote each time the user clicks a button",
-      "technologies": ["javascript", "html", "css"],
+      "description": "This program randomly generates and displays a quote each time the user clicks a button.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://dt-jb.github.io/scifi-quote-gen/",
       "github_link": "https://github.com/dt-jb/techdegree-project-1",
       "image_urls": ["static/img/unit1-screenshot1.png", "static/img/unit1-screenshot2.png"]
@@ -12,8 +12,8 @@
     {
       "id": 1,
       "project_name": "List Pagination",
-      "description": "Uses pagination to improve user experience of a webpage with a long list of data.",
-      "technologies": ["javascript", "html", "css"],
+      "description": "This project uses pagination to improve the user experience of a webpage with a long list of data.  It provides navigation for clicking through small groups of the larger list, reducing clutter and improving readability.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://dt-jb.github.io/list-pagination/",
       "github_link": "https://github.com/dt-jb/techdegree-project-2",
       "image_urls": ["static/img/unit2-screenshot1.png", "static/img/unit2-screenshot2.png"]
@@ -21,29 +21,29 @@
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "a form so that it’s engaging, interactive, and easy to use",
-      "technologies": ["javascript", "jQuery", "html", "css"],
+      "description": "This is an interactive form for a fictional tech conference.  It uses validation for name, email and credit card info, the select menus populate based on previous choices, and the total cost tallies as the user selects events to attend.  This makes the form more engaging and user friendly.",
+      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
       "live_link": "https://dt-jb.github.io/interactive-form/",
       "github_link": "https://github.com/dt-jb/techdegree-project-3",
-      "image_urls": ["static/img/unit3-screenshot1.png", "static/img/unit3-screenshot2.png"]
+      "image_urls": ["static/img/unit3-screenshot1.png", "static/img/unit3-screenshot2.png", "static/img/unit3-screenshot3.png"]
     },
     {
       "id": 3,
       "project_name": "OOP Game Show App",
-      "description": "browser-based, word guessing game to select a random, hidden phrase",
-      "technologies": ["javascript", "jQuery", "html", "css"],
+      "description": "This is a browser-based word guessing game.  The user guesses letters of a random, hidden phrase.  The user wins if they guess all of the letters in the phrase before they make five wrong guesses.",
+      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
       "live_link": "https://dt-jb.github.io/oop_game/",
       "github_link": "https://github.com/dt-jb/oop_game-v2",
-      "image_urls": ["static/img/unit4-screenshot1.png", "static/img/unit4-screenshot2.png"]
+      "image_urls": ["static/img/unit4-screenshot1.png", "static/img/unit4-screenshot2.png", "static/img/unit4-screenshot5.png"]
     },
     {
       "id": 4,
       "project_name": "Public API Requests",
-      "description": "creates a fictional employee directory by communicating with a third-party API (Random People Generator)",
-      "technologies": ["javascript", "html", "css", "http", "ajax", "fetch"],
+      "description": "This project creates a fictional employee directory by communicating with a third-party API (Random People Generator).  It also creates modal windows when you click on a user for more detail, and adds 'next' and 'prev' buttons to navigate within the modals.  Also, there is a simple search function.",
+      "technologies": ["JavaScript", "HTML", "CSS", "HTTP", "AJAX", "Fetch"],
       "live_link": "https://dt-jb.github.io/public-api-project/",
       "github_link": "https://github.com/dt-jb/public-api-project-treehouse-techdegree",
-      "image_urls": ["static/img/unit5-screenshot1.png", "static/img/unit5-screenshot2.png"]
+      "image_urls": ["static/img/unit5-screenshot1.png", "static/img/unit5-screenshot2.png", "static/img/unit5-screenshot3.png"]
     }
   ]
 }
