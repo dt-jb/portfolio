@@ -2,15 +2,42 @@
   "projects": [
     {
       "id": 0,
-      "project_name": "Random Quote Generator",
-      "description": "This program randomly generates and displays a quote each time the user clicks a button.",
-      "technologies": ["JavaScript", "HTML", "CSS"],
-      "live_link": "https://dt-jb.github.io/scifi-quote-gen/",
-      "github_link": "https://github.com/dt-jb/techdegree-project-1",
-      "image_urls": ["static/img/unit1-screenshot1.png", "static/img/unit1-screenshot2.png"]
+      "project_name": "OOP Game Show App",
+      "description": "Object Oriented JavaScript in action. This is a browser-based word guessing game. The user guesses letters of a random, hidden phrase.  They win if they guess all of the letters in the phrase before they make five wrong guesses.",
+      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+      "live_link": "https://dt-jb.github.io/oop_game/",
+      "github_link": "https://github.com/dt-jb/oop_game-v2",
+      "image_urls": ["static/img/unit4-screenshot1.png", "static/img/unit4-screenshot2.png", "static/img/unit4-screenshot5.png"]
     },
     {
       "id": 1,
+      "project_name": "Public API Requests",
+      "description": "This project uses AJAX to create a fictional employee directory by communicating with a third-party API (Random People Generator).  It creates modal windows when you click on a user for more detail, and adds 'next' and 'prev' buttons to navigate within the modals.  There is also a simple search function for a better user interface.",
+      "technologies": ["JavaScript", "HTML", "CSS", "HTTP", "AJAX", "Fetch"],
+      "live_link": "https://dt-jb.github.io/public-api-project/",
+      "github_link": "https://github.com/dt-jb/public-api-project-treehouse-techdegree",
+      "image_urls": ["static/img/unit5-screenshot1.png", "static/img/unit5-screenshot2.png", "static/img/unit5-screenshot3.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Static Node & Express Site",
+      "description": "A little meta, I know.  But this project is a great display of my Node and Express skills, as well as my familiarity with templating languages (in this case Pug).",
+      "technologies": ["JavaScript", "Node", "Express", "HTML", "CSS"],
+      "live_link": null,
+      "github_link": "https://github.com/dt-jb/techdegree-project-6",
+      "image_urls": ["static/img/unit6-screenshot1.png", "static/img/unit6-screenshot2.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Interactive Form",
+      "description": "This is an interactive form for a fictional tech conference.  It uses validation for name, email and credit card info, the select menus populate based on previous choices, and the total cost tallies as the user selects events to attend.  The end result is a more engaging and user friendly form.",
+      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+      "live_link": "https://dt-jb.github.io/interactive-form/",
+      "github_link": "https://github.com/dt-jb/techdegree-project-3",
+      "image_urls": ["static/img/unit3-screenshot1.png", "static/img/unit3-screenshot2.png", "static/img/unit3-screenshot3.png"]
+    },
+    {
+      "id": 4,
       "project_name": "List Pagination",
       "description": "This project uses pagination to improve the user experience of a webpage with a long list of data.  It provides navigation for clicking through small groups of the larger list, reducing clutter and improving readability.",
       "technologies": ["JavaScript", "HTML", "CSS"],
@@ -19,31 +46,13 @@
       "image_urls": ["static/img/unit2-screenshot1.png", "static/img/unit2-screenshot2.png"]
     },
     {
-      "id": 2,
-      "project_name": "Interactive Form",
-      "description": "This is an interactive form for a fictional tech conference.  It uses validation for name, email and credit card info, the select menus populate based on previous choices, and the total cost tallies as the user selects events to attend.  This makes the form more engaging and user friendly.",
-      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
-      "live_link": "https://dt-jb.github.io/interactive-form/",
-      "github_link": "https://github.com/dt-jb/techdegree-project-3",
-      "image_urls": ["static/img/unit3-screenshot1.png", "static/img/unit3-screenshot2.png", "static/img/unit3-screenshot3.png"]
-    },
-    {
-      "id": 3,
-      "project_name": "OOP Game Show App",
-      "description": "This is a browser-based word guessing game.  The user guesses letters of a random, hidden phrase.  The user wins if they guess all of the letters in the phrase before they make five wrong guesses.",
-      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
-      "live_link": "https://dt-jb.github.io/oop_game/",
-      "github_link": "https://github.com/dt-jb/oop_game-v2",
-      "image_urls": ["static/img/unit4-screenshot1.png", "static/img/unit4-screenshot2.png", "static/img/unit4-screenshot5.png"]
-    },
-    {
-      "id": 4,
-      "project_name": "Public API Requests",
-      "description": "This project creates a fictional employee directory by communicating with a third-party API (Random People Generator).  It also creates modal windows when you click on a user for more detail, and adds 'next' and 'prev' buttons to navigate within the modals.  Also, there is a simple search function.",
-      "technologies": ["JavaScript", "HTML", "CSS", "HTTP", "AJAX", "Fetch"],
-      "live_link": "https://dt-jb.github.io/public-api-project/",
-      "github_link": "https://github.com/dt-jb/public-api-project-treehouse-techdegree",
-      "image_urls": ["static/img/unit5-screenshot1.png", "static/img/unit5-screenshot2.png", "static/img/unit5-screenshot3.png"]
+      "id": 5,
+      "project_name": "Random Quote Generator",
+      "description": "This program randomly generates and displays a quote each time the user clicks a button.  I hope you like Sci-Fi!",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://dt-jb.github.io/scifi-quote-gen/",
+      "github_link": "https://github.com/dt-jb/techdegree-project-1",
+      "image_urls": ["static/img/unit1-screenshot1.png", "static/img/unit1-screenshot2.png"]
     }
   ]
 }
