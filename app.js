@@ -5,6 +5,8 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
+//var port = process.env.PORT || 3000;
+
 //set up middleware
 app.set('view engine', 'pug');
 app.use('/static', express.static(path.resolve('public')));
@@ -32,6 +34,6 @@ app.use((err, req, res, next) => {
 });
 
 //sets up the server
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log('The application is running on localhost:3000!');
 });
